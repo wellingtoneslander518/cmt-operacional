@@ -1,7 +1,7 @@
 export default function App() {
   return (
-    <div>
-      <h1>Projeto funcionando</h1>
+    <div style={{ padding: 40 }}>
+      <h1>Site funcionando</h1>
     </div>
   )
 }
